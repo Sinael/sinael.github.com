@@ -1,0 +1,139 @@
+<!doctype html>
+
+<html lang="pl">
+  <head>
+    <meta charset="utf-8">
+    <style>
+      article, aside, dialog, figure, footer, header,
+      hgroup, menu, nav, section { display: block; }
+      
+      table { border-spacing: 5pt; text-align: center; }
+      th { font-style: italic; font-weight: normal; }
+      th:first-child, td:first-child { text-align: right; }
+      td:first-child { font-weight: bold; }
+      th:last-child, td:last-child { text-align: left; }
+      td:first-child + td { font-style: italic; }
+    </style>
+  </head>
+
+  <body>
+<ul>
+<li>Kurczaki</li>
+    <table>
+      <thead>
+        <tr>
+          <th>American<br>Chicken</th>
+          <th>French<br>Connection</th>
+          <th>Age<br>(months)</th>
+          <th>Weight<br>(lbs.)</th>
+          <th>Cooking<br>Methods</th>
+        </tr>
+      </thead>
+      
+      <tbody>
+        <tr>
+          <td>Squab</td>
+          <td>Poussin</td>
+          <td>2</td>
+          <td>&frac34; to 1</td>
+          <td>Broil, Grill, Roast</td>
+        </tr>
+        <tr>
+          <td>Broiler</td>
+          <td>Poulet Nouveau</td>
+          <td>2 to 3</td>
+          <td>1&frac12; to 2&frac12;</td>
+          <td>Broil, Grill, Roast</td>
+        </tr>
+        <tr>
+          <td>Fryer</td>
+          <td>Poulet Reine</td>
+          <td>3 to 5</td>
+          <td>2 to 3</td>
+          <td>Fry, Saute, Roast</td>
+        </tr>
+        <tr>
+          <td>Roaster</td>
+          <td>Poularde</td>
+          <td>5&frac12; to 9</td>
+          <td>Over 3</td>
+          <td>Roast, Poach, Fricassee</td>
+        </tr>
+        <tr>
+          <td>Fowl</td>
+          <td>Poule de l'Annee</td>
+          <td>10 to 12</td>
+          <td>Over 3</td>
+          <td>Stew, Fricassee</td>
+        </tr>
+        <tr>
+          <td>Rooster</td>
+          <td>Coq</td>
+          <td>Over 12</td>
+          <td>Over 3</td>
+          <td>Soup stock, Forcemeat</td>
+        </tr>
+	</tbody>
+	</table>
+<br>
+
+</br>
+<table style="text-align:center; background-color: #94c4ee; border-collapse: collapse;" width="600px;">
+      <thead style="background-color: #2688dc;">
+        <tr>
+          <th>American<br>Chicken</th>
+          <th>French<br>Connection</th>
+          <th>Age<br>(months)</th>
+          <th>Weight<br>(lbs.)</th>
+          <th>Cooking<br>Methods</th>
+        </tr>
+      </thead>
+      
+      <tbody>
+        <tr>
+          <td>Squab</td>
+          <td>Poussin</td>
+          <td>2</td>
+          <td>&frac34; to 1</td>
+          <td>Broil, Grill, Roast</td>
+        </tr>
+        <tr>
+          <td>Broiler</td>
+          <td>Poulet Nouveau</td>
+          <td>2 to 3</td>
+          <td>1&frac12; to 2&frac12;</td>
+          <td>Broil, Grill, Roast</td>
+        </tr>
+        <tr>
+          <td>Fryer</td>
+          <td>Poulet Reine</td>
+          <td>3 to 5</td>
+          <td>2 to 3</td>
+          <td>Fry, Saute, Roast</td>
+        </tr>
+        <tr>
+          <td>Roaster</td>
+          <td>Poularde</td>
+          <td>5&frac12; to 9</td>
+          <td>Over 3</td>
+          <td>Roast, Poach, Fricassee</td>
+        </tr>
+        <tr>
+          <td>Fowl</td>
+          <td>Poule de l'Annee</td>
+          <td>10 to 12</td>
+          <td>Over 3</td>
+          <td>Stew, Fricassee</td>
+        </tr>
+        <tr>
+          <td>Rooster</td>
+          <td>Coq</td>
+          <td>Over 12</td>
+          <td>Over 3</td>
+          <td>Soup stock, Forcemeat</td>
+        </tr>
+      </tbody>
+    </table>
+</ul>
+  </body>
+</html>

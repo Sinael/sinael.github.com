@@ -1,0 +1,129 @@
+﻿<!DOCTYPE html>
+<html lang="pl">
+<html>
+
+    <head>
+        <meta charset="UTF-8" />
+		<meta name="author" content="Grzegorz Ćwikowski"/>
+        <meta name="description" content="Herbata"/>
+        <meta name="keywords" content="Herbata"/>
+		<title>Herbata</title>
+        <link rel="stylesheet" type="text/css" href="css/bootstrap.css">
+        <link rel="stylesheet" type="text/css" href="css/bootstrap-responsive.css">
+		<link rel="stylesheet" type="text/css" href="css/font-awesome.css">
+		<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+		<link rel="stylesheet" type="text/css" href="css/bootstrap-responsive.min.css">
+		<link rel="stylesheet" type="text/css" href="css/font-awesome.min.css">
+		<link href="http://fonts.googleapis.com/css?family=Iceland" rel="stylesheet" type="text/css">
+       <link href='http://fonts.googleapis.com/css?family=Finger+Paint' rel='stylesheet' type='text/css'>
+		<style type="text/css">
+
+		h1, h2, h3, h4, h5, h6 
+		{
+          font-family: 'Milonga', cursive;
+        }
+		h1 
+		{ 
+           text-shadow: 1px 1px 1px #ccc;
+        }
+
+        p, div 
+	    {
+           font-family: 'Finger Paint', cursive;
+        }
+		.jumbotron .btn i 
+		{ 
+           margin-right: 8px;  
+        }
+		.container-narrow 
+		{
+           width: 1024px; 
+		   margin: 0 auto; 
+		   text-align: center;  
+		   background-color: #3cc230;
+        }
+        .nav-pills > .active > a, .nav-pills > .active > a:hover 
+		{
+           background-color: #0a1f08;
+        }
+		</style>
+        
+    </head>
+
+    <body>
+	
+    <div class="container-narrow">
+
+      <div class="masthead">
+        <ul class="nav nav-pills pull-right">
+          <li class="active"><a href="#">Sklepy</a></li>
+          <li class="active"><a href="#">O nas</a></li>
+          <li class="active"><a href="#">Kontakt</a></li>
+        </ul>
+        <h3 class="muted" style="text-align: left; color: #0a1f08">Herbaciarnia</h3>
+	<a style= "text-align: left" ,href="/index.html">Strona Główna</a>
+      </div>
+
+      <hr>
+
+      <div class="jumbotron">
+        <h1>Herbata</h1>
+        <p class="lead">Jest najbardziej popularnym napojem na całym świecie. Napój ten pojawił się w Chinach 5000 lat temu. Wszędzie, gdzie herbata jest spożywana, ludzie wymyślili swoje osobiste zwyczaje i ceremonie związane z jej piciem. Niekiedy słodka, niekiedy z dodatkiem rumu lub mleka, a czasami nawet masła (jak to jest w zwyczaju w Tybecie) jest podawana w filiżankach i w innych rozmaitych naczyniach. Wszystko jest kwestią tradycji i indywidualnego gustu. Herbata jest dekoracyjnym krzewem o dużych, skórzastych ciemnozielonych liściach.. Krzew herbaciany nosi nazwę thea assamica albo thea sinensis. Tylko górna część krzewu herbaty nadaje się do sporządzania naparu (dwa delikatne listki i kwiat). Herbata rośnie w górzystych regionach, gdzie powietrze jest bardzo czyste. Potrzebuje dużo słońca oraz wilgoci. Region, rodzaj gruntu, pora roku, kiedy herbata jest zbierana - wszystko to składa się później na smak i aromat tego szlachetnego napoju.</p>
+        <a class="btn btn-large btn-success, color: #0a1f08"" href="#"><i class="icon-money"></i> Kup Teraz</a>
+      </div>
+
+      <hr>
+
+      <div class="row-fluid marketing">
+        <div class="span6">
+          <h4>Herbata biała</h4>
+          <p> Produkowana na niewielką skalę głównie w Chinach. Zbiór herbaty białej odbywa się wczesną wiosną, gdy roślina budzi się ze snu zimowego. W trakcie produkcji poddawana jest tylko procesowi więdnięcia i suszenia. Chińskie herbaty uważane są za rarytas wśród herbat. Białe herbaty bywają wzbogacane smakowo owocowymi aromatami. </p>
+
+          <h4>Herbata zielona</h4>
+          <p>Pochodzi z tej samej rośliny co herbata czarna. Różni się ona od herbaty czarnej tylko tym, że nie została poddana procesowi fermentacji. Świeżo zebrane liście poddaje się więdnięciu, parowaniu, zwijaniu i suszeniu. W wielu regionach, wysokiej klasy zielone herbaty produkuje się jeszcze klasyczną, starożytną metodą, wykonując wszystkie czynności ręcznie. Ma ona smak bardziej gorzki niż herbata czarna, a w filiżance napar przybiera barwę jaśniejszą, zbliżoną do cytrynowożółtej lub słomkowej. Jest wysoko ceniona dzięki licznym właściwościom zdrowotnym. Napar z zielonej herbaty bogaty jest w witaminy C, E, B, sole mineralne oraz garbniki. Coraz popularniejsze stają się herbaty zielone aromatyzowane dodatkami w postaci kwiatów czy owoców.</p>
+
+          <h4>Herbata czarna</h4>
+          <p>Powszechnie znana - poddana procesowi pełnej fermentacji. Napar może mieć ciemny intensywny kolor, częściej jednak żywy, czewonawy. czarne herbaty pochodzą z licznych plantacji indyjskich, chińskich i afrykańskich. Szczególnie aromatyczna herbata pochodzi z Darjeeling, okręgu w północnych Indiach. Znane i cenione są również herbaty pochodzące z prowincji Assam oraz z Cejlonu. Herbata czarna może być sprzedawana w postaci liściastej, łamanej, proszkowej i pylistej. Producenci często wzbogacają herbatę o kawałki owoców, orzechów, czekoladę, wanilię, karmel czy rum. Te kolorowe mieszanki pięknie pachną oraz znakomicie smakują.</p>
+
+	<h4>Honeybush</h4>
+          <p>Przyrządzana jest podobnie jak Rooibos z czerwonokrzewu, lecz jest od niej łagodniejsza. Napar jest żółto-czerwony, o wyraźnym miodowym i orzeźwiającym zapachu. Jest doskonała dla dzieci ponieważ nie zawiera kofeiny i garbników a posiada za to witaminę C i minerały.</p>
+        
+<h4>Herbata Oolong</h4>
+          <p> Inaczej zwana półfermentowaną produkowana jest w Chinach i Taiwanie (Formosa). Oolongi z Formosy sa nieco dłużej poddawane fermentacji i stąd ich napar jest nieco ciemnijszy od chińskich. </p>
+
+
+	</div>
+
+        <div class="span6">
+          <h4>Herbata PU – ERH</h4>
+          <p>Czerwona herbata cesarzy chińskich z prowincji Yunnan słynąca ze swych właściwości zdrowotnych. Obniża zawartość tłuszczu w organizmie, reguluje poziom cholesterolu i wspomaga procesy trawienia, stąd znana głównie jako odchudzająca. Daje ciemnobrunatny i „gęsty” napar o ziemistym smaku.</p>
+
+          <h4>Herbata Rooibis</h4>
+          <p>Herbatka otrzymywana z krzewów Rooibos rosnących w południowych rejonach Afryki. Charakteryzuje się szczególną delikatnością w smaku i zapachu. Krzew ten nie jest spokrewniony z żadną z dwóch odmian krzewów herbacianych (Thea sinensis i Thea assamica). Zbierane są liście, łodyżki i małe gałązki, które po długim okresie suszenia tnie się na dwie lub trzy wielkości.Herbata bogata jest w składniki mineralne oraz antyutleniacze. Nie zawiera kofeiny, dlatego też bez obawy może być podawana dzieciom. Nadaje się znakomicie jako herbata uspokajająca , polecana jest osobom nerwowym i mającym kłopoty ze snem. Herbata ta bogata jest równeż w witaminę C oraz fluor. Często bywa nazywana herbatą zdrowia..</p>
+
+	<h4>Yerba Mate</h4>
+          <p>Nazywana często dobroczynnym "narkotykiem", lub "zielonym złotem indian". Wytwarzana jest z liści ostrokrzewu paragwajskiego. Poza podstawowymi substancjami odżywczymi mate jest bogata w tzw. ksantynyny oraz w witamint A i C. Ma działanie moczopędne i uśmierza łaknienie, zaleca się ją jako środek wspomagający w kuracjach odchudzających. Ponadto korzystnie wpływa na cały organizm, zwłaszcza na układ nerwowy, wzmacnia ciało i umysł. Dzięki zawartości kofeiny zwalcza senność oraz zmęczenie. Napar zielonobrązowy, cierpki i aromatyczny. Mate sprzedaje się także w wersji prażonej i aromatyzowanej. </p>
+
+<h4>Lapacho</h4>
+          <p>Zioło pozyskuje się z drobno pocietej kory drzew rosnących w wysokich Andach. Lapacho zawiera wiele mikroelementów, które przechodząc do naparu dają mu orzeźwiający i leczniczy walor. Systematycznie spożywany napar wzmacnia odporność organizmu oraz zapobiega lakkim infekcjom i grypom. Napar przynosi ulgę w czasie ataków alergi, pobudza pracę jelit, odtruwa wątrobę i działa odprężająco.</p>
+
+        </div>
+      </div>
+
+      <hr>
+
+      <div class="footer">
+        <p>&copy; Internet 2013</p>
+      </div>
+
+    </div> 
+
+		<script type="text/javascript" src="js/jquery.js"></script>
+	    <script type="text/javascript" src="js/jquery.backstretch.js"></script>
+		<script>
+		   $.backstretch("img/herbata4.jpg");
+		</script>
+    </body>
+</head>
+</html>
+

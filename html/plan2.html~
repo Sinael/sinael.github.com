@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="pl">
+<html>
+
+    <head>
+<meta charset="UTF-8" />
+<title>Plan zajęc</title>
+
+<style>
+
+table {border-collapse: collapse; table-layout:fixed; background-color: #D7F2FA;}
+th { border: 1px solid black; }
+td { border: 1px solid black; }
+
+</style>
+    </head>
+
+<body>
+
+<table>
+<thead>
+</thead>
+<tr>
+<td>Dzień</td>
+<td>Godzina/Zajęcia</td>
+<td>Godzina/Zajęcia</td>
+<td>Godzina/Zajęcia</td>
+<td>Godzina/Zajęcia</td>
+
+</tr>
+
+<tbody>
+
+<tr>
+<td>Sobota</td>
+<td>8:30-10:45 - Techniki internetowe (wyk)</td>
+<td>11:00-13:15 - Techniki internetowe (lab)</td>
+<td>13:45-15:15 - Analiza matematyczna (wyk)</td>
+<td>15:30-17:00 - Analiza matematyczna (ćw)</td>
+
+</tr>
+
+<tr>
+<td>Niedziela</td>
+<td>8:30-10:45 - Architektura i technologia serwisów WWW (wyk)</td>
+<td>11:00-13:15 - Architektura i technologia serwisów WWW (lab)</td>
+<td>13:45-16:00 - Sieci komputerowe (lab)</td>
+<td>16:15-18:30 - Sieci komputerowe (wyk)</td>
+
+</tr>
+
+</tbody>
+</table>
+
+
+</table>
+
+
+</body>
+
+</html>

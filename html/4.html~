@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pl">
+<html>
+
+<table>
+<tbody>
+<tr><td>1</td><td>Adjusted gross income.......................&#160 $4,000</td></tr>
+<tr><td>2</td><td>Zero bracket amount for</td></tr>
+<tr><td></td><td>a singel individual....................&#160 $2,300</td></tr>
+<tr><td>3</td><td>Earned income.........................&#160 <u>1,500</u></td></tr>
+<tr><td>4</td><td>Subtract line 3 from line 2................ &#160&#160&#160&#160&#160&#160&#160&#160<u>800</u></td></tr>
+<tr><td>5</td><td>Add lines 1 and 4. Enter here</td></tr>
+<tr><td></td><td>and on Form 1040, line 35.............. &#160&#160&#160$4,800</td></tr>
+</tbody>
+</table>
+<br>
+</br>
+<table style="background-color: #e08bfc;">
+<tbody>
+<tr><td>1</td><td>Adjusted gross income.......................&#160 $4,000</td></tr>
+<tr><td>2</td><td>Zero bracket amount for</td></tr>
+<tr><td></td><td>a singel individual....................&#160 $2,300</td></tr>
+<tr><td>3</td><td>Earned income.........................&#160 <u>1,500</u></td></tr>
+<tr><td>4</td><td>Subtract line 3 from line 2................ &#160&#160&#160&#160&#160&#160&#160&#160<u>800</u></td></tr>
+<tr><td>5</td><td>Add lines 1 and 4. Enter here</td></tr>
+<tr><td></td><td>and on Form 1040, line 35.............. &#160&#160&#160$4,800</td></tr>
+</tbody>
+</table>		
+
+
+</html>

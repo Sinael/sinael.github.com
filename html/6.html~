@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pl">
+
+    <head>
+<meta charset="UTF-8" />
+<style>
+li {font-size: 20px;}
+#right {text-align: right; font-weight: bold;}
+#left {text-align: left;}
+</style>
+    </head>
+<li >Chart</li>
+
+<table border="0" cellpadding="0" cellspacing="0" width="600px" style="border-collapse: collapse; background-color:  #ff0000;">
+<tr><td></td><td></td><td style="border-bottom-style:solid; border-width=1px;">J. H. Böhning, 1838</td></tr>
+<tr><td></td><td style="border-right-style:solid; border-bottom-style:solid;" >M. J. H. Böhning, 1882</td><td></td></tr>
+<tr><td style="border-right-style:solid;"></td><td></td><td <td style="border-left-style:solid; border-bottom-style:solid;" >M. D. Blase, 1840</td></tr>
+<tr><td style="border-right-style:solid; border-bottom-style:solid; ">L. M. Bohning, 1912</td><td></td><td></td></tr>
+<tr><td></td><td style="border-left-style:solid;"></td><td style="border-bottom-style:solid;">E. F. Ehlert, 1845</td></tr>
+<tr><td></td><td style="border-left-style:solid; border-bottom-style:solid; border-right-style:solid">P. A. M. Ehlert, 1845</td><td></td></tr>
+<tr><td></td><td></td><td style="border-bottom-style:solid; border-left-style:solid;">C. L. Wischmeyer, 1850</td></tr>
+
+</table>
+
+</ul>
+<br>
+</br>
+
+<li >Chart</li>
+
+<table border="0" cellpadding="0" cellspacing="0" width="600px" style="border-collapse: collapse; background-color:  #ff0000;">
+<tr><td></td><td></td><td style="border-bottom-style:solid; border-width=1px;">J. H. Böhning, 1838</td></tr>
+<tr><td></td><td style="border-right-style:solid; border-bottom-style:solid;" >M. J. H. Böhning, 1882</td><td></td></tr>
+<tr><td style="border-right-style:solid;"></td><td></td><td <td style="border-left-style:solid; border-bottom-style:solid;" >M. D. Blase, 1840</td></tr>
+<tr><td style="border-right-style:solid; border-bottom-style:solid; ">L. M. Bohning, 1912</td><td></td><td></td></tr>
+<tr><td></td><td style="border-left-style:solid;"></td><td style="border-bottom-style:solid;">E. F. Ehlert, 1845</td></tr>
+<tr><td></td><td style="border-left-style:solid; border-bottom-style:solid; border-right-style:solid">P. A. M. Ehlert, 1845</td><td></td></tr>
+<tr><td></td><td></td><td style="border-bottom-style:solid; border-left-style:solid;">C. L. Wischmeyer, 1850</td></tr>
+
+</table>
+
+</ul>
+
+</html>
